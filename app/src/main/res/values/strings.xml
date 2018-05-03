@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioButton Tutorial H</string>
+    <string name="radio_button_one">ioniq</string>
+    <string name="radio_button_two">tesla</string>
+    <string name="radio_button_three">leaf</string>
+    <string name="text_view_result">nothing choosed</string>
+</resources>
